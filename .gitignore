@@ -1,0 +1,10 @@
+# Local development notes and configuration
+/docs/dev/
+/.env
+/.env.*
+!/.env.example
+
+# Build and local run output
+/target/
+/build/
+/scratch/
